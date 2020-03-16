@@ -66,12 +66,13 @@ This experiment could be the basis of a real world application such as (insert s
 
 ### USING A TRANSISITOR TO DRIVE A MOTOR ###
 
-(Replace this with the experiment name)
+
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](E4.PNG)
+![Image](e4-1.jpeg)
 
 (Insert a caption here)
 
@@ -81,7 +82,7 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
+### USING THE ACCELEROMETER TO CONTROL MOTOR SPEED ###
 
 (Replace this with the experiment name)
 
