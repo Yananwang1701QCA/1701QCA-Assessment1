@@ -41,9 +41,9 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was light sensor and ananlog inputs.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as sensor light in corridor or doorway and toys.
 
 ### DIMMING AN LED USING A POTENTIOMETER ###
 
@@ -56,13 +56,13 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 ![Image](e3-1.jpeg)
 ![Image](e3-2.jpeg)
 
-(Insert a caption here)
+(This is my third experiment.)
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was potentiometer.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as fans, lights and toys.
 
 ### USING A TRANSISITOR TO DRIVE A MOTOR ###
 
@@ -74,7 +74,7 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 ![Image](E4.PNG)
 ![Image](e4-1.jpeg)
 
-(Insert a caption here)
+(This is my forth experiment.)
 
 #### Reflection ####
 
@@ -95,7 +95,7 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 
 
-(Insert a caption here)
+(This is my fifth experiment.)
 
 #### Reflection ####
 
