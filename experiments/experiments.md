@@ -26,16 +26,18 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
+### USING A LIGHT SENSOR & ANALOG INPUTS ###
 
-(Replace this with the experiment name)
+
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](E2.PNG)
+![Image](e2-1.jpeg)
+![Image](e2-2.jpeg)
 
-(Insert a caption here)
+(This is my second experiment.)
 
 #### Reflection ####
 
@@ -43,7 +45,7 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
+### DIMMING AN LED USING A POTENTIOMETER ###
 
 (Replace this with the experiment name)
 
