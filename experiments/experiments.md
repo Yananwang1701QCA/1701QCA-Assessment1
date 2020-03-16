@@ -22,9 +22,9 @@
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, everything to me was new. It was my first time get to know microbit.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as simple toys for babys.
 
 ### USING A LIGHT SENSOR & ANALOG INPUTS ###
 
