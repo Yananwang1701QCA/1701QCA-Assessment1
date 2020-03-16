@@ -6,7 +6,7 @@
 
 *For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
 
-### SAY "HELLO" TO THE BBC micro:bit! ###
+### E1 SAY "HELLO" TO THE BBC micro:bit! ###
 
 
 
@@ -26,7 +26,7 @@ In this experiment, everything to me was new. It was my first time get to know m
 
 This experiment could be the basis of a real world application such as simple toys for babys.
 
-### USING A LIGHT SENSOR & ANALOG INPUTS ###
+### E2 USING A LIGHT SENSOR & ANALOG INPUTS ###
 
 
 
@@ -45,9 +45,9 @@ In this experiment, something new to me was or something I learned was light sen
 
 This experiment could be the basis of a real world application such as sensor light in corridor or doorway and toys.
 
-### DIMMING AN LED USING A POTENTIOMETER ###
+### E3 DIMMING AN LED USING A POTENTIOMETER ###
 
-(Replace this with the experiment name)
+
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
@@ -64,7 +64,7 @@ In this experiment, something new to me was or something I learned was potentiom
 
 This experiment could be the basis of a real world application such as fans, lights and toys.
 
-### USING A TRANSISITOR TO DRIVE A MOTOR ###
+### E4 USING A TRANSISITOR TO DRIVE A MOTOR ###
 
 
 
@@ -78,13 +78,13 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was motor and transistor，and how to drive by a transisitor.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as film camera and electric car.
 
-### USING THE ACCELEROMETER TO CONTROL MOTOR SPEED ###
+### E5 USING THE ACCELEROMETER TO CONTROL MOTOR SPEED ###
 
-(Replace this with the experiment name)
+
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
