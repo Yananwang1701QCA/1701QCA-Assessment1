@@ -52,7 +52,9 @@ This experiment could be the basis of a real world application such as (insert s
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](E3.PNG)
+![Image](e3-1.jpeg)
+![Image](e3-2.jpeg)
 
 (Insert a caption here)
 
@@ -62,7 +64,7 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
+### USING A TRANSISITOR TO DRIVE A MOTOR ###
 
 (Replace this with the experiment name)
 
