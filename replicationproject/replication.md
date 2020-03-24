@@ -17,7 +17,15 @@ https://www.youtube.com/watch?v=waFRn0v0bpE
 
 ![Image](reasearch01.PNG)
 
-This project is related to mine because I think the touch board used in project are similar.And the principle is similar as well.
+This project is related to mine because I think the touch board used in project are similar. And the principle is similar as well. I also used noisy pack in my project.
+
+### Related project 2 Micro:bit-Swift Musical Instrument Controller ###
+
+https://www.youtube.com/watch?v=Jflf77bLC34&t=38s
+
+![Image](reasearch02.PNG)
+
+This project is related to mine because I think we have the same concept that "makes the Micro:bit an ideal and cheap way to build interfaces".
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
