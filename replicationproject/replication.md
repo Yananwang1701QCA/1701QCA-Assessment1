@@ -27,6 +27,14 @@ https://www.youtube.com/watch?v=Jflf77bLC34&t=38s
 
 This project is related to mine because I think we have the same concept that "makes the Micro:bit an ideal and cheap way to build interfaces".
 
+### Related project 3 Super FX Sword using the BBC  ###
+
+https://www.youtube.com/watch?v=u9lKilq6tr0
+
+![Image](reasearch03.PNG)
+
+This project is related to mine because this project is similar to my original concept of making guitars, and uses acceleration to control the change of sound. Although it has nothing to do with what I want to do, it is shared here because it inspired me.
+
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
 
