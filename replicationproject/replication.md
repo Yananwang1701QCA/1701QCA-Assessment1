@@ -51,13 +51,13 @@ This project is related to mine because this project is similar to my original c
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+I have never been exposed to these terms, and when I was going to read them at first, I thought this article would be very difficult to understand. The five words affordabilitys, signifiers, mappings, and feedback are nothing more than affordability in my opinion. Semaphores are objects that give signals, maps, and customer feedback. But after reading this chapter, I found that they are not just What I understand, there is a deeper meaning and the inextricable connection between them. 
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+First, through the author's introduction, I understood the good design from the four aspects of affordances, signifiers, mappings, and feedback. I also understand the meaning of affordances, signifiers, mappings, and feedback, and I also understand the relationship between the four of them. Affordances means how the object could possibly be used, and affordances are divided into Perceived affordances and visible affordances. The author describes his argument with his friend Gibson in the text to illustrate "Perceived affordances help people figure out what actions are possible without the need for labels or instructions ".
+The signifiers are a way of communicating where the touch should be, which is equivalent to clue. In this part, the author classifies the signifiers. Some signifiers are simply the perceived affordances, while the other parts are misleading signifiers. Speaking of affordances, signifiers, Affordances represent the possibilities in the world for how an agent, maybe a person, animal, or machine, can interact with something. Some affordances are perceivable, others are invisible. Signifiers are signals. Mapping is an important concept in the design and layout of controls and displays. Mappings are also roughly divided into two categories. One is natural mappings are cultural or biological, Other natural mappings follow from the principles of perception and allow for the natural grouping or patterning of controls and feedback. Feedback is better understood for me, that is, customers use feedback. The speed of customer feedback also shows that the design is unsuccessful, because if the customer gives feedback for too long, it is easy for the customer to give up and continue using. Too much feedback can be irritating. Therefore, Feedback is essential, but not when it gets in the way of other things, the environment must also be comfortable. essential, but it has to be done correctly and apropriately.
+The main clues of how things work come from their perceived structure, especially the four aspects of affordances, signifiers, mappings, and feedback.
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
