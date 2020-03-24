@@ -15,9 +15,9 @@
 
 https://www.youtube.com/watch?v=waFRn0v0bpE
 
-![Image](missingimage.png)
+![Image](reasearch01.PNG)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because I think the touch board used in project are similar.And the principle is similar as well.
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
