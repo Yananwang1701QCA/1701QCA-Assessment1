@@ -82,14 +82,10 @@ After reading this chapter, I am actually more interested in the specific conten
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
-
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
-
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
-
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
-
+Prior to that, I had never been exposed to Prototyping. When I looked up the word in the dictionary, I had a preliminary understanding. Prototyping is a preliminary model to test a concept, which reminds me of the cardboard model we made before. But this is not the case. Here, Prototyping refers to the method applied in the field of digital products.
+After reading this chapter, I think that I have gained more than just knowledge, but also the author's encouragement to designers, no matter in which field, the designers, so that I have more courage to accept to learn new Technical methods or new fields. I have a preliminary understanding of the two tools PROCESSING AND ARDUINO. Processing evolved into a development tool for professionals. When designers are learning very abstract theories, it makes coding appear more intuitively to designers. ARDUINO is not only a platform, but also a programming language. It can also be displayed on a computer or actuator through a simple electrical signal.
+I actually want to know more about PROCESSING AND ARDUINO and cases, because after reading this chapter, it is still a bit difficult to understand.
+I think this chapter has a lot of very difficult knowledge, which is very abstract for me. The inspiration that the author brings to me is more important than it will be. The author describes his own case CAPYBARA in this chapter, and the implementation process is difficult, as the author himself said in the book, all this is prohibitive. But before we came into contact with new technologies or methods, everything seemed terrible, just like I started this course, everything seemed a mess, but when I slowly started to contact it, I found it fun.
 
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
