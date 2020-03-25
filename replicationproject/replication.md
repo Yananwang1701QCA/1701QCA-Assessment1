@@ -78,7 +78,7 @@ After reading this chapter, I still learned a lot of knowledge. For a Chinese, t
 
 In the end, I also learned how to make a good design. That is to be meticulous no matter which part is treated. The author also summarized three ways, that is, "look for them and focus on each individually, reduce a complicated feature to a core microinteraction, or treat every feature as a set of linked microinteractions". Therefore, a good design is required Constant efforts to improve.
 
-After reading this chapter, I am actually more interested in the specific content of the three methods. Learn more about how these three ways make me understand better about  Microinteractions.
+After reading this chapter, I am actually more interested in the specific content of the three methods. Learn more about how these three ways make me understand better about  Microinteractions. After reading this chapter, I gained a new understanding of the flow chart for drawing my own project. Just like the microinteractions structure, you can clearly see your design ideas and not be misled by tedious and complicated processes.
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
