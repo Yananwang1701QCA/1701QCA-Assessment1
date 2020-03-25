@@ -133,10 +133,10 @@ https://www.kitronik.co.uk/blog/microbit-guitar-noise-pack-inventors-kit/
 *Complete the following information.*
 
 ### Project title ###
-
+Microbit Guitar With The Noise Pack
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+This is a guitar made with noisy pack, touchpad and potentiometers.
 
 ### Showcase image ###
 
