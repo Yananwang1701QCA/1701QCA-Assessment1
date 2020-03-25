@@ -48,7 +48,7 @@ This project is related to mine because this project is similar to my original c
 
 https://www.youtube.com/watch?v=5tX93t7jCbQ&t=83s
 
-![Image](reasearch04.PNG)
+![Image](reasearch05-1.PNG)
 
 This project is related to mine because this project is similar to my original concept of making guitars, and uses acceleration to control the change of sound. Although it has nothing to do with what I want to do, it is shared here because it inspired me.
 ## Reading reflections ##
