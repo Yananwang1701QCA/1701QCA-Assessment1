@@ -69,14 +69,16 @@ When I saw the author quoting "Nothing big works." —Victor Papanek "at the beg
 After reading this chapter, I still learned a lot of knowledge. For a Chinese, this is not just an expansion of the vocabulary. The author analyzes one by one how to distinguish microinteractions from features, and dive into the structure of microinteractions, which also forms the structure of it, by citing the outdated alarm clock of the Patron X iPhone. To me, this is all new knowledge. I have never touched this area before, but after reading this chapter, I first learned that microinteractions and features are different in size and scope. Microinteractions are included in features. Secondly, I summarized several features of microinteractions from the article:
 1. Microinteractions can make = a whole or a small part of the design
 2. Microinteractions are often the last part of the design process, and as such they are often overlooked.
-3, Microinteractions do n’t matter as much is most early stage technology, when people are more amazed something can be done rather than how it ’s done
+3. Microinteractions do n’t matter as much is most early stage technology, when people are more amazed something can be done rather than how it ’s done
 4. In competitive markets, microinteractions are very important, and the overall experience of a product relies heavily on its microinteractions.
 5. Microinteractions are the glue that can tie together features across mobile devices, for example, TV, desktop and laptop computers, appliances, and the Web. Although microinteractions may vary from platform to platform, their small size can achieve large No consistency in function.
-6, micro-interactions are also very suitable for our already crowded, too complicated and fragmented life. As a result, microinteractions force designers to simply work and focus on details. Just like interactions, microinteractions also have their own structure. I drew a flowchart to show my understanding of its structure.
+6. Micro-interactions are also very suitable for our already crowded, too complicated and fragmented life. As a result, microinteractions force designers to simply work and focus on details. Just like interactions, microinteractions also have their own structure. I drew a flowchart to show my understanding of its structure.
 
 ![Image](forreading2.PNG)
 
 In the end, I also learned how to make a good design. That is to be meticulous no matter which part is treated. The author also summarized three ways, that is, "look for them and focus on each individually, reduce a complicated feature to a core microinteraction, or treat every feature as a set of linked microinteractions". Therefore, a good design is required Constant efforts to improve.
+
+After reading this chapter, I am actually more interested in the specific content of the three methods. Learn more about how these three ways make me understand better about  Microinteractions.
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
