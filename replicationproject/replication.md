@@ -73,6 +73,8 @@ After reading this chapter, I still learned a lot of knowledge. For a Chinese, t
 4. In competitive markets, microinteractions are very important, and the overall experience of a product relies heavily on its microinteractions.
 5. Microinteractions are the glue that can tie together features across mobile devices, for example, TV, desktop and laptop computers, appliances, and the Web. Although microinteractions may vary from platform to platform, their small size can achieve large No consistency in function.
 6, micro-interactions are also very suitable for our already crowded, too complicated and fragmented life. As a result, microinteractions force designers to simply work and focus on details. Just like interactions, microinteractions also have their own structure. I drew a flowchart to show my understanding of its structure.
+
+![Image](Image (7).jpeg)
 In the end, I also learned how to make a good design. That is to be meticulous no matter which part is treated. The author also summarized three ways, that is, "look for them and focus on each individually, reduce a complicated feature to a core microinteraction, or treat every feature as a set of linked microinteractions". Therefore, a good design is required Constant efforts to improve.
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
