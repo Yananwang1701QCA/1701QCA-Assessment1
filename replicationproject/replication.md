@@ -154,11 +154,20 @@ This is a guitar made with noisy pack, touchpad and potentiometers.
 
 *Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
 
+I think the most successful part of me is that I made this project. Because I have never been in this category of design, the most successful place is self-breakthrough. After this experiment, I feel that my project can be improved in appearance, and the function can be more complicated.
+
 
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
+
+In Related project 5, I was exposed to more complex projects, which inspired me to do projects in the future.
 
 
 *What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
 
+While practicing the project, I saw the fourth project, and in this project I learned to use the PIN code. And how to use the transformer to drive a buzzer.
+
 
 *What might be an interesting extension of this project? In what other contexts might this project be used?*
+
+I think we can develop this project into more complex instruments, such as having different tones, just like a real guitar.
+The toys and games can be used as well.
