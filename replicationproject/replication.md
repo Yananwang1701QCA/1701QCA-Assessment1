@@ -51,6 +51,15 @@ https://www.youtube.com/watch?v=5tX93t7jCbQ&t=83s
 ![Image](reasearch05-1.PNG)
 
 This project is related to mine because this project is similar to my original concept of making guitars, and uses acceleration to control the change of sound. Although it has nothing to do with what I want to do, it is shared here because it inspired me.
+
+
+### Related project 6 Musical Instrument with Micro:Bit ###
+
+https://www.youtube.com/watch?v=RpVmLLDZHgA
+
+![Image](reasearch06.PNG)
+
+This project is related to mine because this project is similar to my original concept of making guitars, and uses acceleration to control the change of sound. Although it has nothing to do with what I want to do, it is shared here because it inspired me.
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
 
