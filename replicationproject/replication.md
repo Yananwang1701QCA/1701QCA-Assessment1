@@ -122,8 +122,6 @@ https://www.kitronik.co.uk/blog/microbit-guitar-noise-pack-inventors-kit/
 ![Image](resource06.PNG)(https://www.kitronik.co.uk/wp/wp-content/uploads/2018/08/5603-noise-pack-inventors-kit-microbit-guitar-resource-main-1000.jpg)
 ![Image](resource01.PNG)
 ![Image](resource02.PNG)
-![Image](resource03.PNG)
-![Image](4resource03.PNG)
 ![Image](resource05.PNG)
 
 *Include screenshots of the code you have used.*
@@ -142,7 +140,8 @@ This is a guitar made with noisy pack, touchpad and potentiometers.
 
 *Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
-![Image](missingimage.png)
+![Image](resource03.PNG)
+![Image](4resource03.PNG)
 
 ### Additional view ###
 
