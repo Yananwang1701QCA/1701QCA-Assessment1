@@ -147,7 +147,8 @@ This is a guitar made with noisy pack, touchpad and potentiometers.
 
 *Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
-![Image](missingimage.png)
+![Image](resource07.PNG)
+![Image](resource08.PNG)
 
 ### Reflection ###
 
